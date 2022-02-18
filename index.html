@@ -6,11 +6,11 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Amiya EULA</title>
-    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-EULA/js/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-EULA/js/marked.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-EULA/js/vue.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-EULA/css/style.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-EULA/css/markdown.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/js/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/js/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/js/vue.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/css/style.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/css/markdown.min.css">
 </head>
 <body>
 <div id="app">
@@ -38,8 +38,8 @@
             }
         },
         mounted() {
-            const file = this.getQueryVariable('file') || 'eula'
-            $.get(`https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-EULA/doc/${file}.md?cache=${new Date().getTime()}`, res => this.content = marked(res))
+            const file = this.getQueryVariable('file') || 'opensource'
+            $.get(`https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/doc/${file}.md?cache=${new Date().getTime()}`, res => this.content = marked(res))
         }
     })
 </script>
