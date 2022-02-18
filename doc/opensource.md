@@ -1,4 +1,4 @@
-> # 开放源代码软件许可
+# 开放源代码软件许可
 
 本服务基于 [mirai](https://github.com/mamoe/mirai) 及其插件为基础构建。
 
