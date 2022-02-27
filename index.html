@@ -39,7 +39,7 @@
         },
         mounted() {
             const file = this.getQueryVariable('file') || 'opensource'
-            $.get(`https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/doc/${file}.md?cache=${new Date().getTime()}`, res => this.content = marked(res))
+            $.get(`https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE@master/doc/${file}.md?cache=${new Date().getTime()}`, res => this.content = marked(res))
         }
     })
 </script>
