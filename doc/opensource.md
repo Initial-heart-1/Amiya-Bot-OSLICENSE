@@ -1389,11 +1389,9 @@
   
 [AmiyaBot/Amiya-Bot](https://github.com/AmiyaBot/Amiya-Bot)  
   
-  
-  
-  
-  
-  
+其他的特殊项目和许可证：
+
+[MIT](https://github.com/Initial-heart-1/upptime/blob/master/LICENSE)（[Upptime](https://upptime.js.org)）  
   
   
   
@@ -1401,4 +1399,6 @@
   
 排名不分先后，衷心感谢以上所有项目及其贡献者！  
   
-此处列出的项目可能因统计或其他原因不是全部使用到的项目，如果您认为本服务使用了你的项目但未根据许可证规定在此处列出，欢迎您联系我们进行核实！
+此处列出的项目可能因统计或其他原因不是全部使用到的项目，如果您认为本服务使用了你的项目但未根据许可证约定在此处列出，欢迎您联系我们进行核实！  
+  
+由于 Jsdelivr 的刷新延时，此处展示的内容可能不是最新，仅供参考，请以 [Github](https://github.com/Initial-heart-1/Amiya-Bot-OSLICENSE/blob/main/doc/opensource.md) 为准。
