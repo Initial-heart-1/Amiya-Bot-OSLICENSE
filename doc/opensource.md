@@ -693,11 +693,9 @@
   
 [Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)  
   
-[mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu)  
-  
 [LaoLittle/DrawMeme](https://github.com/LaoLittle/DrawMeme)
   
-[LaoLittle/SkikoMirai]（https://github.com/LaoLittle/SkikoMirai）
+[LaoLittle/SkikoMirai](https://github.com/LaoLittle/SkikoMirai)
   
   
   
