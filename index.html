@@ -6,11 +6,11 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Amiya OpenSource License</title>
-    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/js/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/js/marked.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/js/vue.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/css/style.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE/css/markdown.min.css">
+    <script src="js/jquery.js"></script>
+    <script src="js/marked.js"></script>
+    <script src="js/vue.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/markdown.css">
 </head>
 <body>
 <div id="app">
@@ -39,7 +39,7 @@
         },
         mounted() {
             const file = this.getQueryVariable('file') || 'opensource'
-            $.get(`https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-OSLICENSE@master/doc/${file}.md?cache=${new Date().getTime()}`, res => this.content = marked(res))
+            $.get(`doc/${file}.md?cache=${new Date().getTime()}`, res => this.content = marked(res))
         }
     })
 </script>
