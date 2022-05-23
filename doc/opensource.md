@@ -1399,4 +1399,5 @@
   
 此处列出的项目可能因统计或其他原因不是全部使用到的项目，如果您认为本服务使用了你的项目但未根据许可证约定在此处列出，欢迎您联系我们进行核实！  
   
-本页面使用内容分发网络（CDN）技术来提升您的访问体验，但 CDN 的基本原理决定了使用该技术一定会产生一些刷新延时，还有您的浏览器缓存等因素可能导致此处展示的内容可能不是最新，所以该页面内容仅供参考，请以 [Github](https://github.com/Initial-heart-1/Amiya-Bot-OSLICENSE/blob/main/doc/opensource.md) 为准。
+本页面使用内容分发网络（CDN）技术来提升您的访问体验，但 CDN 的基本原理决定了使用该技术一定会产生一些刷新延时，还有您的浏览器缓存等因素可能导致此处展示的内容可能不是最新。  
+该页面内容仅供参考，请以 [Github](https://github.com/Initial-heart-1/Amiya-Bot-OSLICENSE/blob/main/doc/opensource.md) 为准。
