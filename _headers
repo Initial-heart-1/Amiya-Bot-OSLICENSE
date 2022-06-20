@@ -1,0 +1,5 @@
+/css/HarmonyOS_Sans_SC.ttf
+  Cache-Control: max-age=2592000
+
+/js/*
+  Cache-Control: max-age=2592000
