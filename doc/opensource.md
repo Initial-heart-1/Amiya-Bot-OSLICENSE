@@ -693,7 +693,11 @@
   
 [Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)  
   
+[cssxsh/mirai-skia-plugin](https://github.com/cssxsh/mirai-skia-plugin)  
   
+[cssxsh/mirai-hibernate-plugin](https://github.com/cssxsh/mirai-hibernate-plugin)
+  
+[cssxsh/meme-helper](https://github.com/cssxsh/meme-helper)
   
   
   
