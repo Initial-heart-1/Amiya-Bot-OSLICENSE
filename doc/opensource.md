@@ -693,8 +693,6 @@
   
 [Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)  
   
-[LaoLittle/SkikoMirai](https://github.com/LaoLittle/SkikoMirai)
-  
   
   
   
