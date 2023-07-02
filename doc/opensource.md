@@ -685,8 +685,6 @@
   
 [project-mirai/chat-command](https://github.com/project-mirai/chat-command)  
   
-[gnuf0rce/debug-helper](https://github.com/gnuf0rce/debug-helper)  
-  
 [iTXTech/mcl-addon](https://github.com/iTXTech/mcl-addon)  
   
 [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin)  
@@ -694,10 +692,6 @@
 [Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)  
   
 [cssxsh/mirai-skia-plugin](https://github.com/cssxsh/mirai-skia-plugin)  
-  
-[cssxsh/mirai-hibernate-plugin](https://github.com/cssxsh/mirai-hibernate-plugin)
-  
-[cssxsh/meme-helper](https://github.com/cssxsh/meme-helper)
   
   
   
@@ -1389,7 +1383,7 @@
   
 其他的特殊项目和许可证：
 
-[MIT](https://github.com/Initial-heart-1/upptime/blob/master/LICENSE)（[Upptime](https://upptime.js.org)）  
+暂无
   
   
   
