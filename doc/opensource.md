@@ -1,8 +1,8 @@
 # 开放源代码软件许可
 
-本服务基于 [mirai](https://github.com/mamoe/mirai) 及其插件为基础构建。
+本服务以 [mirai](https://github.com/mamoe/mirai) 及其插件为基础构建。
 
-本服务直接使用的部分开放源代码项目及其许可证原文如下：
+本服务直接使用的部分开放源代码项目及其许可证原文以使用的许可证分类展示如下：
 
 [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)：
 
@@ -692,6 +692,14 @@
 [Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)  
   
 [cssxsh/mirai-skia-plugin](https://github.com/cssxsh/mirai-skia-plugin)  
+  
+[cssxsh/mirai-administrator](https://github.com/cssxsh/mirai-administrator)  
+  
+[cssxsh/mirai-device-generator](https://github.com/cssxsh/mirai-device-generator)  
+  
+[cssxsh/mirai-hibernate-plugin](https://github.com/cssxsh/mirai-hibernate-plugin)  
+  
+[cssxsh/fix-protocol-version](https://github.com/cssxsh/fix-protocol-version)  
   
   
   
@@ -1383,7 +1391,7 @@
   
 其他的特殊项目和许可证：
 
-暂无
+[MIT](https://github.com/Initial-heart-1/upptime/blob/master/LICENSE)（[Upptime](https://upptime.js.org)）  
   
   
   
